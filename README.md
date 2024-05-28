@@ -48,7 +48,7 @@ Before you begin, ensure you have met the following requirements:
    Alternatively, you can run the JAR file directly:
 
     ```bash
-    java -jar target/your-application-name.jar
+    java -jar target/bookStore.jar
     ```
 
 2. The application will start and listen on the default port `8080`.
