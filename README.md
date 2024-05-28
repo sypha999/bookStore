@@ -1,4 +1,4 @@
-# Spring Boot Application with H2 Database
+# A simple book store
 
 This repository contains a Spring Boot application configured to use a H2 in-memory database. This setup allows for easy testing and integration.
 
